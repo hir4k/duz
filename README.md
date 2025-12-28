@@ -1,2 +1,2 @@
 # duz
-Boring general purpose programming language.
+An interpreted programming language for Humans.
